@@ -65,19 +65,6 @@ Convira uses session-based multi-tenancy with strict data isolation at every lay
 3. GPT-4 Response -- Retrieved content + conversation history + system prompt -> GPT-4 generates a grounded, accurate response.
 4. Lead Action -- If intent matches a capture pattern, Convira collects contact details and qualifies the lead.
 
-## Performance Stats
-
-| Metric | Value |
-| Conversion lift vs. forms | 3x better |
-| Support queries automated | 80% |
-| Support cost reduction | Up to 60% |
-| E-commerce conversion increase | 35% |
-| Languages supported | 95+ |
-| Setup time | Under 5 minutes |
-| Monthly organic visitors | 27,000+ |
-| Blog posts | 27 |
-| Free tools built | 17 |
-
 ## Use Cases
 
 Real estate agents -- answer property FAQs, qualify buyers, book viewings. Home services -- capture emergency leads, schedule jobs, provide quotes. Medical/Dental -- handle appointment requests, answer insurance questions. Legal -- qualify leads, explain services, route to attorneys. E-commerce -- reduce cart abandonment, answer product questions 24/7. Agencies -- white-label for clients, manage multiple accounts.
